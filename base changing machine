@@ -1,0 +1,5 @@
+1.Input base nubmer (let B)
+2.Input number (let N)
+3.repeat until N=0:
+  a.print [N/[log_B(N)]]
+  b.let N=N-B^[log_B(N)]
