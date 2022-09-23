@@ -14,25 +14,27 @@ Apart for this requirements, Ms Sato is open to explore a cryptocurrency selecte
 ## Proposed Solution
 
 Design statement:
-I will to design and make a ———— for a client who is ———. The ——– will about ———— and is constructed using the software ———. It will take  ———- to make and will be evaluated according to the criteria ———.
+I will to design and make a ——Dogecoin software—— for a client who is —Mr Sato——. The —application—– will about ——cryptocurrencies—— and is constructed using the software —python——. It will take  ——about 3 weeks—- to make and will be evaluated according to the criteria ———.
 
 Justify the tools/structure of your solution
 Dogecoin
+
+Dogecoin (DOGE) is a peer-to-peer, open-source cryptocurrency. It is considered an altcoin and was launched in December 2013 with the image of a Shiba Inu dog as its logo. Dogecoin's blockchain has merit with its underlying technology derived from Litecoin. Notable features of Dogecoin, which uses a scrypt algorithm, are its low price and unlimited supply.
+
+
 
 ## Success Criteria
 1. The electronic ledger is a text-based software (Runs in the Terminal).
 2. The electronic ledger display the basic description of the cyrptocurrency selected.
 3. The electronic ledger allows to enter, withdraw and record transactions.
-4.
-5.
-6.
+4. The electronic ledger allows to see how expence in dollars and yen.
+5. The electronic ledger allows to plot grapth of income and expence.
+6. The electronic ledget allow to show mean, max, min, median of the income, outcome and ±of it.
 
 # Criteria B: Design
 
 ## System Diagram
-
-
-
+![](https://github.com/yutaro741/unit-1/blob/main/picture/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202022-09-23%2012.05.14.png)
 
 ## Flow Diagrams
 
