@@ -43,4 +43,7 @@ Dogecoin (DOGE) is a peer-to-peer, open-source cryptocurrency. It is considered 
 | Task No | Planned Action                                                | Planned Outcome                                                                                                 | Time estimate | Target completion date | Criterion |
 |---------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
 | 1       | Create system diagram                                         | To have a clear idea of the hardware and software requirements for the proposed solution                        | 10min         | Sep 22                 | B         |
+| 2 | flow diagram login  | created a flow diagram for the login system | 10min  | B |
+|---|---------------------|---------------------------------------------|--------|---|
+| 3 | code and test login | coded and tested the login system           | 100min | C |
 
